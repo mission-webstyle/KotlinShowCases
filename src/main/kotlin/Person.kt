@@ -10,7 +10,7 @@ class Person (
     }
 
     fun moveTo(city: String){
-        this.city
+        this.city = city
     }
 
     override fun toString(): String {
