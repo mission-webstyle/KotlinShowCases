@@ -1,0 +1,200 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <DBN-PSQL>
+      <case-options enabled="true">
+        <option name="KEYWORD_CASE" value="lower" />
+        <option name="FUNCTION_CASE" value="lower" />
+        <option name="PARAMETER_CASE" value="lower" />
+        <option name="DATATYPE_CASE" value="lower" />
+        <option name="OBJECT_CASE" value="preserve" />
+      </case-options>
+      <formatting-settings enabled="false" />
+    </DBN-PSQL>
+    <DBN-SQL>
+      <case-options enabled="true">
+        <option name="KEYWORD_CASE" value="lower" />
+        <option name="FUNCTION_CASE" value="lower" />
+        <option name="PARAMETER_CASE" value="lower" />
+        <option name="DATATYPE_CASE" value="lower" />
+        <option name="OBJECT_CASE" value="preserve" />
+      </case-options>
+      <formatting-settings enabled="false">
+        <option name="STATEMENT_SPACING" value="one_line" />
+        <option name="CLAUSE_CHOP_DOWN" value="chop_down_if_statement_long" />
+        <option name="ITERATION_ELEMENTS_WRAPPING" value="chop_down_if_not_single" />
+      </formatting-settings>
+    </DBN-SQL>
+    <JavaCodeStyleSettings>
+      <option name="ALIGN_MULTILINE_TEXT_BLOCKS" value="true" />
+      <option name="JD_ADD_BLANK_AFTER_PARM_COMMENTS" value="true" />
+      <option name="JD_ADD_BLANK_AFTER_RETURN" value="true" />
+    </JavaCodeStyleSettings>
+    <JetCodeStyleSettings>
+      <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
+    </JetCodeStyleSettings>
+    <XML>
+      <option name="XML_ATTRIBUTE_WRAP" value="2" />
+    </XML>
+    <codeStyleSettings language="JAVA">
+      <option name="ALIGN_MULTILINE_CHAINED_METHODS" value="true" />
+      <option name="ALIGN_MULTILINE_THROWS_LIST" value="true" />
+      <option name="ALIGN_MULTILINE_EXTENDS_LIST" value="true" />
+      <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
+      <option name="ALIGN_GROUP_FIELD_DECLARATIONS" value="true" />
+      <option name="ALIGN_CONSECUTIVE_VARIABLE_DECLARATIONS" value="true" />
+      <option name="ALIGN_SUBSEQUENT_SIMPLE_METHODS" value="true" />
+      <option name="ARRAY_INITIALIZER_WRAP" value="2" />
+      <option name="ARRAY_INITIALIZER_LBRACE_ON_NEXT_LINE" value="true" />
+      <option name="ARRAY_INITIALIZER_RBRACE_ON_NEXT_LINE" value="true" />
+      <option name="ASSIGNMENT_WRAP" value="1" />
+      <option name="IF_BRACE_FORCE" value="3" />
+      <option name="DOWHILE_BRACE_FORCE" value="3" />
+      <option name="WHILE_BRACE_FORCE" value="3" />
+      <option name="FOR_BRACE_FORCE" value="3" />
+      <option name="ENUM_CONSTANTS_WRAP" value="2" />
+      <indentOptions>
+        <option name="USE_TAB_CHARACTER" value="true" />
+        <option name="SMART_TABS" value="true" />
+        <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
+      </indentOptions>
+    </codeStyleSettings>
+    <codeStyleSettings language="JSON">
+      <indentOptions>
+        <option name="USE_TAB_CHARACTER" value="true" />
+      </indentOptions>
+    </codeStyleSettings>
+    <codeStyleSettings language="XML">
+      <option name="FORCE_REARRANGE_MODE" value="1" />
+      <option name="SOFT_MARGINS" value="120" />
+      <indentOptions>
+        <option name="USE_TAB_CHARACTER" value="true" />
+        <option name="SMART_TABS" value="true" />
+        <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
+      </indentOptions>
+      <arrangement>
+        <rules>
+          <section>
+            <rule>
+              <match>
+                <NAME>xmlns:.*</NAME>
+              </match>
+            </rule>
+          </section>
+          <section>
+            <rule>
+              <match>
+                <AND>
+                  <NAME>fx:id</NAME>
+                  <XML_ATTRIBUTE />
+                </AND>
+              </match>
+            </rule>
+          </section>
+          <section>
+            <rule>
+              <match>
+                <AND>
+                  <NAME>text</NAME>
+                  <XML_ATTRIBUTE />
+                </AND>
+              </match>
+            </rule>
+          </section>
+          <section>
+            <rule>
+              <match>
+                <AND>
+                  <NAME>promptText</NAME>
+                  <XML_ATTRIBUTE />
+                </AND>
+              </match>
+            </rule>
+          </section>
+          <section>
+            <rule>
+              <match>
+                <AND>
+                  <NAME>alignment</NAME>
+                  <XML_ATTRIBUTE />
+                </AND>
+              </match>
+            </rule>
+          </section>
+          <section>
+            <rule>
+              <match>
+                <AND>
+                  <NAME>onAction</NAME>
+                  <XML_ATTRIBUTE />
+                </AND>
+              </match>
+            </rule>
+          </section>
+          <section>
+            <rule>
+              <match>
+                <AND>
+                  <NAME>minHeight</NAME>
+                  <XML_ATTRIBUTE />
+                </AND>
+              </match>
+            </rule>
+          </section>
+          <section>
+            <rule>
+              <match>
+                <AND>
+                  <NAME>maxHeight</NAME>
+                  <XML_ATTRIBUTE />
+                </AND>
+              </match>
+            </rule>
+          </section>
+          <section>
+            <rule>
+              <match>
+                <AND>
+                  <NAME>prefHeight</NAME>
+                  <XML_ATTRIBUTE />
+                </AND>
+              </match>
+            </rule>
+          </section>
+          <section>
+            <rule>
+              <match>
+                <AND>
+                  <NAME>minWidth</NAME>
+                  <XML_ATTRIBUTE />
+                </AND>
+              </match>
+            </rule>
+          </section>
+          <section>
+            <rule>
+              <match>
+                <AND>
+                  <NAME>maxWidth</NAME>
+                  <XML_ATTRIBUTE />
+                </AND>
+              </match>
+            </rule>
+          </section>
+          <section>
+            <rule>
+              <match>
+                <AND>
+                  <NAME>prefWidth</NAME>
+                  <XML_ATTRIBUTE />
+                </AND>
+              </match>
+            </rule>
+          </section>
+        </rules>
+      </arrangement>
+    </codeStyleSettings>
+    <codeStyleSettings language="kotlin">
+      <option name="CODE_STYLE_DEFAULTS" value="KOTLIN_OFFICIAL" />
+    </codeStyleSettings>
+  </code_scheme>
+</component>

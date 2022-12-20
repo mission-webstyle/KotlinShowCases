@@ -1,0 +1,21 @@
+class Person (
+    private var name:  String,
+    private var age:Int,
+    private var city:String
+) {
+    constructor(name: String) :this(name,0,"")
+
+    fun incrementAge(){
+        ++this.age;
+    }
+
+    fun moveTo(city: String){
+        this.city
+    }
+
+    override fun toString(): String {
+        return "Person(name='$name', age=$age, city='$city')"
+    }
+
+
+}
