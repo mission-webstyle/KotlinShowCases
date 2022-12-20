@@ -1,3 +1,5 @@
+package model
+
 class Person (
     private var name:  String,
     private var age:Int,
@@ -14,7 +16,7 @@ class Person (
     }
 
     override fun toString(): String {
-        return "Person(name='$name', age=$age, city='$city')"
+        return "model.Person(name='$name', age=$age, city='$city')"
     }
 
 

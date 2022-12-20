@@ -1,3 +1,7 @@
+package main
+
+import logic.ShowCaseScopeFunctions
+
 /**
  * Zeigt folgende ShowCases der SpracheKotlin
  */
